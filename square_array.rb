@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+numbers = [1, 4, 9]
+numbers.each do |colors|
+  puts "how many pieces are there #{numbers}"
 end
