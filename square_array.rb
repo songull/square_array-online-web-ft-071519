@@ -1,5 +1,5 @@
 def square_array(array)
-numbers = [1, 4, 9]
+numbers = [1, 2, 3]
 counter = 1
 numbers.each do |candy|
   puts "this is my loops #{counter}"
