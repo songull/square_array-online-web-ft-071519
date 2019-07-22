@@ -1,5 +1,8 @@
 def square_array(array)
 numbers = [1, 4, 9]
-numbers.each do |colors|
-  puts "how many pieces are there #{numbers}"
+counter = 1
+numbers.each do |candy|
+  puts "this is my loops #{counter}"
+  puts "stop it #{numbers}"
+  counter += 1
 end
